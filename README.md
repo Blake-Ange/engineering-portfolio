@@ -10,6 +10,14 @@ Selected software engineering projects and technical case studies.
 
 ## Project Case Studies
 
-Project summaries and selected technical demonstrations will be added here.
+### Document Intelligence Pipeline
+
+Python-based processing of architectural PDFs into structured data, including validation and JSON/Excel exports.
+
+**Demonstrated result:** 17 architectural pages processed in approximately 1.5 seconds, identifying 36 apartment instances.
+
+[View Case Study](case-studies/document-intelligence.md)
+
+---
 
 *Source code, proprietary implementations, and client information are not publicly distributed.*
